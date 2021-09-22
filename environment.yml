@@ -1,0 +1,7 @@
+name: cookiecutter-project
+channels:
+  - defaults
+dependencies:
+  - cookiecutter=1.7
+  - python=3.9
+prefix: /home/kennydev/anaconda3/envs/cookiecutter-project
